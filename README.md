@@ -2,6 +2,9 @@
 
 This project explores three different approaches to procedural terrain generation, each suited for different applications and visual styles.
 
+![Video Demonstration](https://youtu.be/z1nfLfBdeaY)
+
+
 ## Techniques Implemented
 
 ### 1. Cellular Automata Cave Generation
